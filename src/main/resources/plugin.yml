@@ -1,0 +1,7 @@
+name: DisableItemMerge
+version: ${project.version}
+main: Main
+api-version: 1.18
+commands:
+  itemdisable:
+    permission: walmartmc.itemdisable
