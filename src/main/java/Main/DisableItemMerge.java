@@ -28,7 +28,6 @@ public final class DisableItemMerge extends JavaPlugin implements Listener, Comm
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
     }
 
     @EventHandler
